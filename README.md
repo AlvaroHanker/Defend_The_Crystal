@@ -1,0 +1,6 @@
+# Defend_The_Crystal
+
+Esta demo es un proyecto que me propuse hacer en unity durante el verano de 2017, el objetivo principal de este proyecto era crear un sistema de configuración de niveles para Unity en base a simples archivos de texto plano y su análisis por medio de un patrón de expresiones regulares. El sistema crea listas basadas en niveles y etapas, existen también un script de clasificación y transformación del texto plano a instancias del propio juego, pero solo es válido para esta demo. El juego en sí contempla dos modos de juego, uno en el que se testea el nivel creado a partir del sistema de configuración y otro nivel sin límite de enemigos.
+
+
+This demo is a self-project, I worked on that in the summer of 2017, the main objetive of this project was the creation of a configuration system based on plain text archives and its processing using a regular expression analizer. The system is contempling in c# scripts and Unity. The system creates lists based on levels and stages, also, there are another scripts oriented to parse the plain text to the proper game instances, this is only valid for this demo. The game has two game modes, one prepared for testing the configuration system and another one wich is an endless level.
