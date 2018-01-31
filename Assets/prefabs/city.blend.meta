@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: a246c74bcc7a3524b9ecb12fe8deaf0b
+timeCreated: 1502479012
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cube
+    100004: Cube_001
+    100006: Cube_002
+    100008: Cube_003
+    100010: Cube_004
+    100012: Cube_005
+    100014: Cube_006
+    100016: Cube_007
+    100018: Cube_008
+    100020: Cube_009
+    100022: Cube_010
+    100024: Cube_011
+    100026: Cylinder
+    100028: Sphere
+    100030: Sphere_001
+    100032: Sphere_003
+    100034: Circle
+    100036: Torus_002
+    100038: Icosphere
+    100040: Torus_000
+    100042: Torus_001
+    100044: Torus_005
+    400000: //RootNode
+    400002: Cube
+    400004: Cube_001
+    400006: Cube_002
+    400008: Cube_003
+    400010: Cube_004
+    400012: Cube_005
+    400014: Cube_006
+    400016: Cube_007
+    400018: Cube_008
+    400020: Cube_009
+    400022: Cube_010
+    400024: Cube_011
+    400026: Cylinder
+    400028: Sphere
+    400030: Sphere_001
+    400032: Sphere_003
+    400034: Circle
+    400036: Torus_002
+    400038: Icosphere
+    400040: Torus_000
+    400042: Torus_001
+    400044: Torus_005
+    2300000: Cube
+    2300002: Cube_001
+    2300004: Cube_002
+    2300006: Cube_003
+    2300008: Cube_004
+    2300010: Cube_005
+    2300012: Cube_006
+    2300014: Cube_007
+    2300016: Cube_008
+    2300018: Cube_009
+    2300020: Cube_010
+    2300022: Cube_011
+    2300024: Cylinder
+    2300026: Sphere
+    2300028: Sphere_001
+    2300030: Sphere_003
+    2300032: Circle
+    2300034: Torus_002
+    2300036: Icosphere
+    2300038: Torus_000
+    2300040: Torus_001
+    2300042: Torus_005
+    3300000: Cube
+    3300002: Cube_001
+    3300004: Cube_002
+    3300006: Cube_003
+    3300008: Cube_004
+    3300010: Cube_005
+    3300012: Cube_006
+    3300014: Cube_007
+    3300016: Cube_008
+    3300018: Cube_009
+    3300020: Cube_010
+    3300022: Cube_011
+    3300024: Cylinder
+    3300026: Sphere
+    3300028: Sphere_001
+    3300030: Sphere_003
+    3300032: Circle
+    3300034: Torus_002
+    3300036: Icosphere
+    3300038: Torus_000
+    3300040: Torus_001
+    3300042: Torus_005
+    4300000: Cube_011
+    4300002: Cube_010
+    4300004: Cube_009
+    4300006: Sphere
+    4300008: Cylinder
+    4300010: Cube_008
+    4300012: Cube_007
+    4300014: Cube_006
+    4300016: Cube_005
+    4300018: Cube_004
+    4300020: Cube_003
+    4300022: Cube_002
+    4300024: Cube_001
+    4300026: Cube
+    4300028: Sphere_001
+    4300030: Sphere_003
+    4300032: Torus_002
+    4300034: Circle
+    4300036: Icosphere
+    4300038: Torus_000
+    4300040: Torus_001
+    4300042: Torus_005
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
